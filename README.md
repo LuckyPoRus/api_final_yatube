@@ -11,19 +11,33 @@ Python 3.7
 git@github.com:LuckyPoRus/api_final_yatube.git
 ```
 2. Переход в директорию с проектом:
+```
 cd kittygram
+```
 3. Cоздать и активировать виртуальное окружение:
+```
 python -m venv venv
+```
 4. Активировать виртуальное окружение:
+```
 source venv/scripts/activate
+```
 5. Оновление PIP:
+```
 python -m pip install --upgrade pip
+```
 6. Установка зависимостей используемых в проекте:
+```
 pip install -r requirements.txt
+```
 7. Выполнить миграции:
+```
 python manage.py migrate
+```
 8. Запустить проект:
+```
 python manage.py runserver
+```
 
 ## Примеры запросов:
 Получение JWT-токена:
