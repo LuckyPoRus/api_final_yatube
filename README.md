@@ -1,4 +1,5 @@
-<h1 align="center"> # API для Yatube </h1>
+<h1 align="center">API для Yatube</h1>
+
 ## Описание проекта
 Проект позволяет обращаться к API социальной сети Yatube.<br/>
 ## Используемые технологии:<br/>
