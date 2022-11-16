@@ -32,7 +32,6 @@ class CommentsViewSet(viewsets.ModelViewSet):
     serializer_class = CommentSerializer
     permission_classes = (
         AuthorOrReadOnly,
-        permissions.IsAuthenticatedOrReadOnly,
     )
 
     def get_post(self):
