@@ -13,7 +13,7 @@ git@github.com:LuckyPoRus/api_final_yatube.git
 ```
 2. Переход в директорию с проектом:
 ```
-cd kittygram
+cd yatube_api
 ```
 3. Cоздать и активировать виртуальное окружение:
 ```
