@@ -23,7 +23,7 @@ python -m venv venv
 ```
 source venv/scripts/activate
 ```
-5. Оновление PIP:
+5. Обновление PIP:
 ```
 python -m pip install --upgrade pip
 ```
